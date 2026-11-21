@@ -1,4 +1,4 @@
-"""CSI-endpoint flow model with a multimodal generative initializer.
+"""CSI-endpoint flow model with a multimodal generative initializer. 
 
 Camera and LiDAR feature heads belong to one shared multimodal initializer,
 which samples a CSI-shaped x0. During training one random t is sampled and a
